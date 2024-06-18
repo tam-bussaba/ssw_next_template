@@ -1,0 +1,12 @@
+.navbar-toggler {
+    outline: none;
+}
+.dropdown-menu.show {
+    display: block;
+}
+
+.card-transform:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s;
+    
+  }
